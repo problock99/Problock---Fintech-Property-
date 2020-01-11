@@ -1,6 +1,6 @@
 # Problock---Fintech-Property
 
-problock is a platform aim to build financial inclusion through the property sector.
+problock is a platform that aim to build financial inclusion through the property sector.
 
 problock utilizes financial, internet and blockchain technologies to provide better access for everyone who has high interest to invest in property sector.
 
