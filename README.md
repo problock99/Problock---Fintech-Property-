@@ -14,8 +14,8 @@ Problock Build is crowd funding that helps developers or landowners or project o
  Problock Pawnshop is a funding that helps property owners who need money quickly with property guarantees that are legally certified.
 ## Problock Hodl 
 Problock Hodl is crowdfunding for long-term projects such as boarding, hotels, food courts, parking lots, commercial, coworking space, coliving, and productive properties
-## Problock Property Dex
-Problock is property exchange base on blockchain. Each property project will be marked with a different Smarcontract. The ownership are marked with smarcontract, The ownership of each property can sell on Problock Property Dex.
+## Problock Dex Property 
+Problock Dex Property is property exchange base on blockchain. Each property project will be marked with a different Smarcontract. The ownership are marked with smarcontract, The ownership of each property can sell on Problock Dex Property .
 
 
 #################################### Problock X Blockchain ###################################
