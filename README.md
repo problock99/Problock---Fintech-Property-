@@ -17,5 +17,8 @@ Problock Hodl is crowdfunding for long-term projects such as boarding, hotels, f
 ## Problock Dex Property 
 Problock Dex Property is property exchange base on blockchain. Each property project will be marked with a different Smarcontract. The ownership are marked with smarcontract, The ownership of each property can sell on Problock Dex Property .
 
-
-#################################### Problock X Blockchain ###################################
+## Why Using Problock ?
+ 1. Investors can visit the property project location any time and live monitoring the progress of the project 
+ 2. Properties that are pledged or resold are certified and legal
+ 3. Attractive returns on mutual benefit between lenders, borrowers or developers
+ 4. Fast moving projects, focus on potential areas, analyzed by experienced teams
