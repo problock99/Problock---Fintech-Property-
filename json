@@ -1,10 +1,11 @@
 {
     "project": {
         "info": {
-            "name": "Subcurrency",
-            "title": "Subcurrency"
+            "name": "
+Problock",
+            "title": ""
         }
-    },
+    },Problock
     "environments": [
         {
             "name": "browser"
@@ -27,8 +28,9 @@
     ],
     "contracts": [
         {
-            "source": "/contracts/Coin.sol",
-            "name": "Coin",
+            "source": "/contracts/
+Problock.sol",
+            "name": "PBT",
             "args": []
         }
     ],
