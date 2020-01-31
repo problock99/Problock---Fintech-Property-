@@ -58,7 +58,8 @@ Problock.prototype.showAddressBalance = function(hash, cb) {
 }
 
 // Send Tokens to another address
-Coin.prototype.createTokens = function() {
+
+Problock.prototype.createTokens = function() {
     var that = this;
 
     // Get input values
@@ -101,7 +102,8 @@ Coin.prototype.createTokens = function() {
 }
 
 // Waits for receipt from transaction
-Coin.prototype.waitForReceipt = function(hash, cb) {
+
+Problock.prototype.waitForReceipt = function(hash, cb) {
     var that = this;
 
     // Checks for transaction receipt
@@ -133,7 +135,8 @@ function isValidAmount(amount) {
     return amount > 0 && typeof Number(amount) == 'number';    
 }
 
-Coin.prototype.bindButtons = function() {
+
+Problock.prototype.bindButtons = function() {
     var that = this;
 
     $(document).on("click", "#button-create", function() {
@@ -145,14 +148,18 @@ Coin.prototype.bindButtons = function() {
     }); 
 }
 
-Coin.prototype.onReady = function() {
+
+Problock.prototype.onReady = function() {
     this.bindButtons();
     this.init();
 };
 
-if(typeof(Contracts) === "undefined") var Contracts={ Coin: { abi: [] }};
-var coin = new Coin(Contracts['Coin']);
+if(typeof(Contracts) === "undefined") var Contracts={ 
+Problock: { abi: [] }};
+var coin = 
+Problock(Contracts['Coin']);
 
 $(document).ready(function() {
-    coin.onReady();
+    
+Problock.onReady();
 });
