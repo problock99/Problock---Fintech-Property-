@@ -9,7 +9,7 @@ Problock will be the right place to collaborate and learn together how to make p
 # Features
 
 ## Problock Bold
-Problock Bold is crowd funding that helps developers or landowners or project owners to build housing or commercials building that already have a building permit and are ready to built.
+Problock Bold is crowd funding that helps developers or land owners or project owners to build housing or commercials building that already have a building permit and are ready to built.
 ## Problock PL
  Problock Property Loan is a funding that helps property owners who need money quickly with property guarantees that are legally certified.
 ## Problock LT 
